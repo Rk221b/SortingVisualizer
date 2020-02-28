@@ -1,0 +1,20 @@
+.visualization-wrapper {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.container {
+    display: flex;
+    align-items: flex-end;
+}
+
+.array-bar {
+    width: 10px;
+    background-color: white;
+    display: inline-block;
+    margin: 17px 2px;
+    padding-left: 0.35%;
+}
